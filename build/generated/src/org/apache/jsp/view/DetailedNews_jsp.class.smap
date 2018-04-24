@@ -1,0 +1,23 @@
+SMAP
+DetailedNews_jsp.java
+JSP
+*S JSP
+*F
++ 0 DetailedNews.jsp
+view/DetailedNews.jsp
++ 1 ClientHeader.jsp
+view/ClientHeader.jsp
+*L
+5,17:52
+5#1,59:69
+63,9:128
+71,19:137
+21#0,7:156
+31,4:167
+34,2:171
+36:173,3
+37:176
+38:177,5
+39,2:182,3
+41,10:188
+*E

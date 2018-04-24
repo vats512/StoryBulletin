@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/controller/AnalyticsController.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/controller/SignupController.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/web/view/Client.jsp</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/dao/NewsDao.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/controller/LoginController.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/dao/HibernateUtils.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/web/view/Category.jsp</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/controller/DownloadFileServlet.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/dao/UserDao.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/model/FetchNews.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/web/index.html</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/web/view/images/Free-Blue-Vector-Background.jpg</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/model/UserInformation.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/web/css/adminPanel.css</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/controller/CategoryController.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/web/view/ClientHeader.jsp</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/web/view/Signup.jsp</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/controller/NewsController.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/model/Analytics.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/model/NewsDetail.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/controller/PdfController.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/web/view/EditProfile.jsp</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/service/iText.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/web/view/index.jsp</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/web/view/assets/css/style.css</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/controller/DetailNewsController.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/web/view/Chart.jsp</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/controller/LogoutController.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/model/News.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/controller/PersonalizationController.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/web/view/DetailedNews.jsp</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/model/Login.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/dao/AnalyticsDao.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/controller/DefaultPageController.java</file>
+            <file>file:/C:/Users/Honey%20Shah/Documents/NetBeansProjects/StoryBulletinFinal/src/java/com/storybulletin/controller/UserInformationController.java</file>
+        </group>
+    </open-files>
+</project-private>

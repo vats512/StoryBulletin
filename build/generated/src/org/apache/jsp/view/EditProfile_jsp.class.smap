@@ -1,0 +1,26 @@
+SMAP
+EditProfile_jsp.java
+JSP
+*S JSP
+*F
++ 0 EditProfile.jsp
+view/EditProfile.jsp
++ 1 ClientHeader.jsp
+view/ClientHeader.jsp
+*L
+1,60:52
+5#1,55:112
+60:167,3
+61:170
+62:171,3
+63,3:174
+66:177,3
+67,5:180
+72:185,3
+73,4:188
+77:192,3
+78,5:195
+82,3:200
+84,23:203
+60#0,76:226
+*E
